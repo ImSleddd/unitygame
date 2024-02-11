@@ -1,0 +1,4 @@
+repository "GhorillaGhosts@owenogrod@cloud"
+  path "/"
+    br "/main"
+    co "/main"
